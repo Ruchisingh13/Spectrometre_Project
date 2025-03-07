@@ -1,0 +1,13 @@
+D:\Visual Studio\Spectrometre\64bit-20250224T091854Z-001\64bit\DeveloperTools\ForVisualBasic\SampleAPL\SampleAPL\DLL\SpectrometerApp.exe.config
+D:\Visual Studio\Spectrometre\64bit-20250224T091854Z-001\64bit\DeveloperTools\ForVisualBasic\SampleAPL\SampleAPL\DLL\SpectrometerApp.exe
+D:\Visual Studio\Spectrometre\64bit-20250224T091854Z-001\64bit\DeveloperTools\ForVisualBasic\SampleAPL\SampleAPL\DLL\SpectrometerApp.pdb
+D:\Visual Studio\Spectrometre\64bit-20250224T091854Z-001\64bit\DeveloperTools\ForVisualBasic\SampleAPL\SampleAPL\DLL\SpectrometerApp.xml
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.vbproj.AssemblyReference.cache
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.Form1.resources
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.Resources.resources
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.vbproj.GenerateResource.cache
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\Spectrom.E78CBA90.Up2Date
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.exe
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.xml
+D:\Visual Studio\Spectrometre\SpectrometerApp\obj\Debug\SpectrometerApp.pdb
