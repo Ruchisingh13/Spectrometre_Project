@@ -1,5 +1,5 @@
 # Spectrometer Data Acquisition System
-Overview
+# Overview
 This VB.NET desktop application is designed to interface with a Hamamatsu spectrometer via USB, enabling real-time spectral data acquisition, visualization, and storage. The system provides a user-friendly interface for researchers and engineers working with spectroscopic analysis.
 
 # Key Features
